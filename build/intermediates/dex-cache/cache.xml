@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_c234913ab692946ca9c40a5b52d65c6f7ac94fb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_9e0686da91670200539399ffe5fd63f83a2b7ba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_050f8544bf2a5899a2db027a3dc8cccb2f342cd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_36ef3e06fc83b4da6f314192018867d3e8410fb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_3ecd0bae502fb64c3e6724acaa29aadd8ebb58f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_c4b147c245bba643d9f24106b78df2f18447ed49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_5148f7305bf7576436d0bb89acadaa94b1936b92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_d38cb0447fadacdb67fa9f188ffd7e1a22e89cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_0f19385cab6da0c7c0843c9edefc86607db7b704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_eb77d120188648c9cff3d49bba2f19eedbb1cd19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_d9261d61a3bb54751b648ebe5d226117730428a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_03020f0189872a0ace23209fa7686d6248f5d7a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_1206d799ca68c590437300cf7666d3981511882c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a6e0b1d011e00a3915748febc99758847a9323d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0eb52b5462edaa3f12ba5197c36955c3dfc45270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_fa52e1ee55742a9593bf4371e09ad56700feb34a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Naga Prakash\Documents\Test Projects\Nougat-Reply-Notification-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_537f6d2e368e69c2c8e68731e3784f5098432828.jar" />
+    </item>
+
+</items>
